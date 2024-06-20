@@ -1,0 +1,72 @@
+body {
+  height: 100vh
+}
+
+#root {
+  height: 100vh
+}
+
+.login fieldset {
+  border-color: #f8f8ff
+}
+
+.MuiTab-root {
+  color: #6366f1 !important
+}
+
+.MuiTabs-indicator {
+  background-color: #6366f1 !important
+}
+
+.MuiTab-root .Mui-selected {
+  color: #5046e5
+}
+
+.joinGroup .Mui-focused .MuiOutlinedInput-notchedOutline{
+  border-color: #5046e5 !important
+}
+
+.joinGroup .MuiInputLabel-outlined{
+  color: grey
+}
+
+.joinGroup .Mui-focused{
+  color: #5046e5 !important
+}
+
+.joinGroup input {
+  color: #5046e5
+}
+
+.message {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  padding: 6px 10px;
+  margin: 10px 20px;
+}
+
+.myChat {
+  align-self: flex-end;
+  background:  #5046e5;
+  color: #FFF;
+  border-bottom-left-radius: 8px;
+}
+
+.othersChat {
+  align-self: flex-start;
+  border-bottom-right-radius: 8px;
+  border: 1px solid grey
+}
+
+.message .userName {
+  font-size: 12px
+}
+
+.chat .MuiOutlinedInput-notchedOutline {
+  border-color: #5046e5 !important;
+  border-radius: 1rem
+}
+
+.chat input {
+  color: #5046e5
+}

@@ -1,0 +1,11 @@
+exports.USER_ALREADY_EXISTS = 'User already exists';
+exports.USER_CREATED_SUCCESSFUL = 'User created successfully';
+exports.USER_LOGGED_SUCCESSFUL = 'User logged in successfully';
+exports.BAD_CREDENTIALS = 'Bad credentials';
+exports.GROUP_CREATED_SUCCESSFUL = 'Group created successfully';
+exports.GROUP_ALREADY_EXISTS = 'Group already exists';
+exports.GROUP_NOT_CREATED = 'User is not involved in any groups';
+exports.GROUP_JOINED_SUCCESSFUL = 'Group joined successfully';
+exports.NO_CONVERSATION = 'No conversation happened in this group';
+exports.INVALID_DATA = 'Invalid data passed';
+exports.MESSAGE_SUCCESSFUL = 'Message saved successfully';
